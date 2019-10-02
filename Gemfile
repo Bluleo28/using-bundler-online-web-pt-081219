@@ -8,8 +8,3 @@ group :development do
 gem "pry"
 end
 
-# require "pry"
-require "Gemfile"
-binding.pry
-end
-

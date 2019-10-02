@@ -5,6 +5,6 @@ gem "rspec"
 gem 'sinatra'
 
 group :development do
-gem "pry"
+gem "bundler"
 end
 
